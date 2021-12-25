@@ -18,4 +18,4 @@ cd HackingMbf
 
 ls
 
-cd Mbf.py
+python2 Mbf.py
